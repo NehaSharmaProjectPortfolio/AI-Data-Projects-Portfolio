@@ -27,7 +27,7 @@
 - `Data Transformation`
 - `Excel`
 
-![](/images/Bike%20Sales%20Dashboard.png)
+![](images/Bike%20Sales%20Dashboard.png)
 
 ## [Project 3: Dialogue Summarization from Gen AI LLM Model](https://github.com/NehaSharmaProjectPortfolio/GenAI)
 ### Project Objective: To study dialogue summarization task using generative AI Pre-Trained LLM Model (FLAN-T5) and impacts of prompt engineering to achieve desired outcomes.

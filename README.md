@@ -17,7 +17,7 @@
 - `Microsoft PowerBI`
 - `Data Visualization` 
 
-![](https://github.com/NehaSharmaProjectPortfolio/AI-Data-Projects-Portfolio/blob/main/DataCareerSurvey.png)
+![](/AI-Data-Projects-Portfolio/blob/main/DataCareerSurvey.png)
 
 ## [Project 2: Data Analysis Bike Sales](https://github.com/NehaSharmaProjectPortfolio/DataAnalysis_BikeSales)
 ### Project Objective: Bike Sales Data Analysis using Excel Pivot Tables and Data Cleaning in Excel

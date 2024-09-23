@@ -17,17 +17,17 @@
 - `Microsoft PowerBI`
 - `Data Visualization` 
 
-![](/AI-Data-Projects-Portfolio/blob/main/DataCareerSurvey.png)
+![](images/DataCareerSurvey.png)
 
 ## [Project 2: Data Analysis Bike Sales](https://github.com/NehaSharmaProjectPortfolio/DataAnalysis_BikeSales)
 ### Project Objective: Bike Sales Data Analysis using Excel Pivot Tables and Data Cleaning in Excel
-
-![](https://github.com/NehaSharmaProjectPortfolio/AI-Data-Projects-Portfolio/blob/main/Bike%20Sales%20Dashboard.png)
 
 ### Skills
 - `Data Cleaning`
 - `Data Transformation`
 - `Excel`
+
+![](/images/Bike%20Sales%20Dashboard.png)
 
 ## [Project 3: Dialogue Summarization from Gen AI LLM Model](https://github.com/NehaSharmaProjectPortfolio/GenAI)
 ### Project Objective: To study dialogue summarization task using generative AI Pre-Trained LLM Model (FLAN-T5) and impacts of prompt engineering to achieve desired outcomes.

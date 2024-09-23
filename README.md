@@ -1,4 +1,5 @@
 # AI-Data-Projects-Portfolio
+#### Technical Skills: Python, SQL, Excel, Microsoft Power BI, Gen AI, Prompt Engineering
 ## [Project 1: Data Analysis Career Survey](https://github.com/NehaSharmaProjectPortfolio/DataAnalysis_CareerSurvey)
 ### Project Objective: To build visualizations from online career survey data for transition to Data Careers.
 1. Use PowerBI for Data Cleaning and Transformation
